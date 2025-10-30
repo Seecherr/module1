@@ -1,4 +1,5 @@
 from sklearn.linear_model import RANSACRegressor, LinearRegression
+import numpy as np
 from .base_model import BaseModel
 from config.settings import Config
 

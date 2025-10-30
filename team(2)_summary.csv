@@ -1,0 +1,9 @@
+parameter,value
+Quadratic Coef (a),13.050923655314957
+Quadratic Coef (b),-0.6687452977236961
+Quadratic Coef (c),0.0053524365711904815
+v_opt (km/h),62.47110907611883
+y_min (L/100km),-7.837706563804332
+v_opt_95_CI_lower,60.59268179479895
+v_opt_95_CI_upper,64.75440202918439
+v_opt_RANSAC (km/h),60.624167369323466
